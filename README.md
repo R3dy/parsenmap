@@ -1,3 +1,5 @@
+[![Gem Version](https://badge.fury.io/rb/parsenmap.svg)](https://badge.fury.io/rb/parsenmap)
+
 # parsenmap
 Simple Nmap XML parsing script.  Doesn't do anything fancy
 
